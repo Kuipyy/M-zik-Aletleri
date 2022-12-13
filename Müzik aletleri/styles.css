@@ -1,0 +1,17 @@
+.cards {
+    margin-bottom: 30px;
+}
+
+.pics {
+    width: 'inherit';
+    height: 20rem;
+}
+
+.text {
+    font-size: 14px;
+}
+
+p,
+li {
+    font-size: 14px;
+}
